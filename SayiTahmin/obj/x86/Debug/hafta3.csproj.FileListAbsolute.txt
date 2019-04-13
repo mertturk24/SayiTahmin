@@ -1,0 +1,17 @@
+C:\Users\1\Desktop\Mert Türk\hafta3\hafta3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.Form1.resources
+C:\Users\1\Desktop\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.Properties.Resources.resources
+C:\Users\1\Desktop\Mert Türk\hafta3\hafta3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1\Desktop\Mert Türk\hafta3\hafta3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1\Desktop\Mert Türk\hafta3\hafta3\bin\Debug\hafta3.exe
+C:\Users\1\Desktop\Mert Türk\hafta3\hafta3\bin\Debug\hafta3.pdb
+C:\Users\1\Desktop\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.exe
+C:\Users\1\Desktop\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.pdb
+C:\Users\meita\OneDrive\Masaüstü\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.exe
+C:\Users\meita\OneDrive\Masaüstü\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.pdb
+C:\Users\meita\OneDrive\Masaüstü\Mert Türk\hafta3\hafta3\bin\Debug\hafta3.exe
+C:\Users\meita\OneDrive\Masaüstü\Mert Türk\hafta3\hafta3\bin\Debug\hafta3.pdb
+C:\Users\meita\OneDrive\Masaüstü\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.csprojResolveAssemblyReference.cache
+C:\Users\meita\OneDrive\Masaüstü\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.Form1.resources
+C:\Users\meita\OneDrive\Masaüstü\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.Properties.Resources.resources
+C:\Users\meita\OneDrive\Masaüstü\Mert Türk\hafta3\hafta3\obj\x86\Debug\hafta3.csproj.GenerateResource.Cache
